@@ -4,7 +4,7 @@ A collection of Arduino sketches
 
 ## Video
 
-[![Exterminate](http://img.youtube.com/vi/qQtoHMOePp8/0.jpg)](https://youtu.be/qQtoHMOePp8)
+[![Exterminate](https://img.youtube.com/vi/qQtoHMOePp8/0.jpg)](https://youtu.be/qQtoHMOePp8)
 
 ## Hardware
 
