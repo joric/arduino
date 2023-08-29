@@ -20,4 +20,3 @@ A collection of Arduino sketches
 * SG90 servo (1.8 kg/cm)
 * RDS3115 servo (17 kg/cm)
 
-
